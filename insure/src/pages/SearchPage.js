@@ -34,5 +34,4 @@ const NewSearchPage = () => {
     </div>
   );
 };
-
 export default NewSearchPage;
